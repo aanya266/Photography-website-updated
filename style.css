@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+img {
+    width: 300px;
+    border: 5px;
+    padding: 5px;
+}
+div {
+    margin-top: 15px;
+}
+.imgsec {
+    display: flex;
+    justify-content: center;
+}
+.imagesec {
+    margin-right: 25px;
+    margin-left: 25px;
+}
