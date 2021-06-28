@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    background-color: aqua;
 }
 img {
     width: 300px;
@@ -16,4 +17,7 @@ div {
 .imagesec {
     margin-right: 25px;
     margin-left: 25px;
+}
+p {
+    background-color: white;
 }
