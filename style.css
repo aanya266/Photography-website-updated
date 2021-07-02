@@ -2,11 +2,6 @@ body{
     text-align: center;
     background-color: aqua;
 }
-img {
-    width: 300px;
-    border: 5px;
-    padding: 5px;
-}
 div {
     margin-top: 15px;
 }
@@ -17,7 +12,9 @@ div {
 .imagesec {
     margin-right: 25px;
     margin-left: 25px;
-}
-p {
     background-color: white;
+}
+.img-section {
+    width: 450px;
+    height: 250px;
 }
